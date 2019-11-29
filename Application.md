@@ -2,8 +2,8 @@ Step 1. The program should display the menu as follows
 1. Admin Login
 2. Agent Login
 3. Exit
-Step 2. 
-If 1 is pressed, get the admin login details and validate. On valid login,
+
+Step 2. If 1 is pressed, get the admin login details and validate. On valid login,
 show the below menu
 	1. Add Product (Fields :Product Id, Product Name, MinSellQuantity,Price)
 	2. Display Inventory Details ( Product Id , Product Name, Quantityavailable,price, total cost)
